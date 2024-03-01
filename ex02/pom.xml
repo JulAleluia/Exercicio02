@@ -24,6 +24,13 @@
     <groupId>exercicio02</groupId>
     <artifactId>ex02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <dependencies>
+		<dependency>
+		    <groupId>org.postgresql</groupId>
+		    <artifactId>postgresql</artifactId>
+		    <version>42.7.2</version>
+		</dependency>
+	</dependencies>
     <packaging>jar</packaging>
 
     <properties>
